@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+_some_fancy_image.gif_
+
 I am TheMisir, software engineer with more than 7 years of programming experience.
 
 [![GitHub followers](https://img.shields.io/github/followers/themisir?style=social)](https://github.com/themisir)
