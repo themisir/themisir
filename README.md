@@ -19,8 +19,9 @@ My favourites for making job done are:
 - React + TypeScript for frontend dev
 - .NET Core form making tools, apps
 - C# for building .NET apps
+- EntityFramework Core for object-relational mapping
 - PostgreSQL for hosting and managing structed data
 - [Repl.it](https://repl.it) for testing code on browser
 - Netlify and vercel for hosting serverless apps
 - GitHub Actions and GitLab CI for CI/CD
-- Twitter for socializing
+- [Nightingale](https://www.microsoft.com/en-us/p/nightingale-rest-api-client/9n2t6f9f5zdn) for testing REST requests
