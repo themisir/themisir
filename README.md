@@ -7,7 +7,7 @@ I am TheMisir, software engineer with more than 7 years of programming experienc
 [![GitHub followers](https://img.shields.io/github/followers/themisir?style=social)](https://github.com/themisir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/themisir?style=social)](https://twitter.com/themisir)
 
-- 🔭 I’m currently working on [Fonibo](https://fonibo.com/en)
+- 🔭 I’m currently working on [Fonibo](https://fonibo.com/en) and [Hive](https://github.com/hivedb/hive)
 - 🌱 I’m currently learning Docker and DevOps automation
 - 💬 Ask me about DevOps and geeky stuff
 - 🤬 I hate working with unsafe typed languages
