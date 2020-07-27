@@ -9,8 +9,7 @@ I am TheMisir, software engineer with more than 7 years of programming experienc
 
 - 🔭 I’m currently working on [Fonibo](https://fonibo.com/en) and [Hive](https://github.com/hivedb/hive)
 - 🌱 I’m currently learning Docker and DevOps automation
-- 💬 Ask me about DevOps and geeky stuff
-- 🤬 I hate working with unsafe typed languages
+- 💬 Ask me about backend (AspNet Core, Express.js and php) stuff
 
 I am currently working on server, IT stuff, flutter development, game and desktop app development on my spare time.
 
