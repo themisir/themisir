@@ -1,6 +1,16 @@
 ### Hi,
 
-I am Misir, Software Engineer with more than 6 years of experience. I'm currently CTO at [@fonibo](https://fonibo.com/en).
+I am Misir, Software Engineer with more than 6 years of experience. I stared my developer career as a freelance web developer on 2016. During this time my interest in startups rised and I become very hyped. So I wanted to invest my time in startups. I also like to help open source communities to grow. And I'm bad at copywriting, so let's stop self-promotion part here.
+
+I'm currently CTO at [Fonibo](https://fonibo.com/en).
+
+##### Maintaining:
+
+- [Hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart.
+- [ListView Utils](https://github.com/TheMisir/flutter-listutils) - Some fancy tweaks for flutter List widgets.
+- [MeiliSearch Dart](https://github.com/TheMisir/meilisearch-dart) - MeiliSearch API in dart programming language.
+
+*The projects above are ones I usually spend more time maintaining than others.*
 
 ##### Follow me here:
 
