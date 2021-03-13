@@ -7,7 +7,7 @@ I'm currently CTO at [Fonibo](https://fonibo.com/en).
 ##### Maintaining:
 
 - [Hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart.
-- [phonenumbers](https://github.com/fonibo/phonenumbers) - Some fancy tweaks for flutter List widgets.
+- [phonenumbers](https://github.com/fonibo/phonenumbers) - Phonelibrary validation & UI widget created using dart (without any native bindings like libphonenumbers).
 - [MeiliSearch Dart](https://github.com/TheMisir/meilisearch-dart) - MeiliSearch API in dart programming language.
 
 *The projects above are ones I usually spend more time maintaining than others.*
