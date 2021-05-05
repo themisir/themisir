@@ -12,7 +12,7 @@ I'm currently CTO at [Fonibo](https://fonibo.com/en).
 
 *The projects above are ones I usually spend more time maintaining than others.*
 
-##### My blog
+##### My blog:
 
 You can read my personal blog articles here at [themisir.com](https://themisir.com). I'm usually posting about software engineering, life and startups - not specific on one topic.
 
