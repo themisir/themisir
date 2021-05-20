@@ -2,7 +2,7 @@
 
 I am Misir, Software Engineer with more than 6 years of experience. I stared my developer career as a freelance web developer on 2016. During this time my interest in startups rised and I become very hyped. So I wanted to invest my time in startups. I also like to help open source communities to grow. And I'm bad at copywriting, so let's stop self-promotion part here.
 
-I'm currently CTO at [Fonibo](https://fonibo.com/en).
+I'm currently trying entrepreneurship with [Fonibo](https://fonibo.com/en).
 
 ##### Maintaining:
 
