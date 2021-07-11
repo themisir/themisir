@@ -1,8 +1,12 @@
-### Hi,
+### Hey there!
 
 I am Misir, developing software for more than 6 years. I've started my career as a freelance web developer on 2016. Currently spending my time in building startup and hacking open source projects. I'm interested in all levels of the software development from language, os, hardware development to building web frontend UIs for end users. Currently I'm mostly coding in C#, Dart, TypeScript and Golang. You can find various ways to contact me on [here](https://themisir.com/contact/).
 
 I'm currently full-time CTO, Co-Founder at [Fonibo](https://fonibo.com/en).
+
+##### Experiments:
+
+Experiementing with different technologies is alongside with my hobbies. Currently I'm planning to create an experimental social app or experimental programming language for scripting small tools.
 
 ##### Maintaining:
 
