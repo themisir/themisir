@@ -26,6 +26,3 @@ You can read my personal blog articles here at [themisir.com](https://themisir.c
 
 [![GitHub](https://img.shields.io/github/followers/themisir?style=social)](https://github.com/themisir)
 [![Twitter](https://img.shields.io/twitter/follow/themisir?style=social)](https://twitter.com/themisir)
-
-<br/>
-<br/>
