@@ -21,7 +21,7 @@ Here's some of the remarkable contributions I'm proud to share: [dart-lang/pub#3
 <details>
 <summary>Want to talk?</summary>
 
-Too bad I don't want, well at least I don't want a real-time form of communication. You better off reaching out to me via email and then we can see if that's an option. Is that rude? Maybe, but I better off explaining stuff as a written communication than directing you in real time as speaking. It just doesn't work for me and I need hours before to prepare and a few more hours to wind off.
+Too bad I don't want, well at least I don't prefer a real-time form of communication at the moment. You better off reaching out to me via email and then we can see if that's an option. Is that rude? Maybe, but I better off explaining stuff as a written communication than directing you in real time as speaking. It just doesn't work for me and I need hours before to prepare and a few more hours to wind off.
 
 Also hey you'll get to keep records of our communication in a _"most"_ efficient way (plain text) as long as possible. When you need to revisit the same subject you can just check your email history and read the response again.
 
