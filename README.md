@@ -37,3 +37,14 @@ You can read my personal blog articles here at [themisir.com](https://themisir.c
 
 [![GitHub](https://img.shields.io/github/followers/themisir?style=social)](https://github.com/themisir)
 [![Twitter](https://img.shields.io/twitter/follow/themisir?style=social)](https://twitter.com/themisir)
+
+##### Recommendations:
+
+- [Check out Bob Ross of CS](https://www.youtube.com/@BenEater)
+- [You can also take a look at my FOSS enthusiast friend's website](https://rahim.li)
+- [Literally learn math in a way that makes sense](https://www.youtube.com/@3blue1brown)
+- [Discover new stuff here](https://www.reddit.com/r/programming/)
+- [Learn how interpreters work under the hood](http://craftinginterpreters.com/)
+
+(i am planning to write a longer version of this list on my blog)\
+todo: add link to the said post here
