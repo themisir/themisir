@@ -1,6 +1,6 @@
 ### Hey there!
 
-Hey reader, glad to see you! I am Misir, writing software for mor than 7 years by now. I enjoy designing software systems and architectures to solve different problems (or create new ones). I also like to work on side projects and sometimes level them up to a business. I don't have any one go-to tech stack right now, I usually make decision after considering requirements and constraints and either use something I already know or dive into something new. Learning new stuff is not a big deal though it better be not about cryptocurrency. Want to talk? You'll find a way ;)
+I am Misir, writing software for mor than 7 years by now. I enjoy designing software systems and architectures to solve different problems (or create new ones). I also like to work on side projects and sometimes level them up to a business. I don't have any one go-to tech stack right now, I usually make decision after considering requirements and constraints and either use something I already know or dive into something new. Learning new stuff is not a big deal though it better be not about cryptocurrency. Want to talk? You'll find a way ;)
 
 ##### My blog:
 
