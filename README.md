@@ -4,7 +4,7 @@ I am Misir, writing software for mor than 7 years by now. I enjoy designing soft
 
 ##### My blog:
 
-You can read my personal blog articles here at [themisir.com](https://themisir.com). It's mostly about software engineering, life and businesses.
+You can read my personal blog articles here at [themisir.com](https://themisir.com). There is no primary theme of the blog, I just write about whatever comes to my mind at the moment.
 
 ##### Recommendations:
 
