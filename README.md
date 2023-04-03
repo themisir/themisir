@@ -8,11 +8,8 @@ You can read my personal blog articles here at [themisir.com](https://themisir.c
 
 ##### Recommendations:
 
-- [Check out Bob Ross of CS](https://www.youtube.com/@BenEater)
-- [You can also take a look at my FOSS enthusiast friend's website](https://rahim.li)
-- [Literally learn math in a way that makes sense](https://www.youtube.com/@3blue1brown)
-- [Discover new stuff here](https://www.reddit.com/r/programming/)
-- [Learn how interpreters work under the hood](http://craftinginterpreters.com/)
-
-(i am planning to write a longer version of this list on my blog)\
-todo: add link to the said post here
+- [Bob Ross of CS](https://www.youtube.com/@BenEater)
+- [My FOSS enthusiast friend's website](https://rahim.li)
+- [Learn math](https://www.youtube.com/@3blue1brown)
+- [My favorite CS book so far](http://craftinginterpreters.com/)
+- [Async/Await from the .NET God himself](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
