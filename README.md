@@ -1,6 +1,13 @@
-#### Hi,
+#### Hello there,
 
-I am Misir, doing software engineering for about 7 years or so. I like what I do, and when I don't I can find excuses to procrastinate until the last day of the deadline. I like learning about how stuff works under the hood, and that's how I eventually got to this point.
+General Kenobi. I write software. I like Rustlang and Golang, but have to write C# instead. I like writing systems software, low level stuff, playing with bits and bytes, sometimes exploring deep into CPU level and when bored I may prefer to write some HTML+CSS as well.
 
-I write on [my blog](https://themisir.com) semi-regularly about software engineering, startups, business and some personal essays.
+- I write blogs and essays, or sometimes post some photos on [https://themisir.com](https://themisir.com)
+- I maintain my own little infrastructure for running self-hosted and some self-made tools
+- I work at bp, mostly doing system level software engineering
+- I hate Microsoft due to their non consumer friendly behavior (though I may eventually work there)
+- I will write my own game engine and A Game! from scratch
 
+That's a darn long list to describe me, it's not an authentic one because it's a public one, but I tried to be as realistic as possible while being employer friendly (except MSFT).
+
+Email me if you wanna talk (:
